@@ -3,6 +3,9 @@ Theme Name: Dinamita Marketing
 Theme URI: http://www.dinamita.com.br
 Author: Luiz Henrique Web Designer
 */
+.logo img{
+  width: 20px;
+}
 @font-face {
   font-family: 'Poppins';
   src: url('fonts/poppins/Poppins-Regular.woff2') format('woff2'),
@@ -18955,4 +18958,3 @@ WhatsApp
   .btn-whatsapp i {
     font-size: 34px;
   }
-  
