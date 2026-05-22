@@ -308,7 +308,7 @@ Separator
     width: 10px;
     height: 10px;
     margin: 20px auto;
-    background: #e74c3c;
+    background: #03b900;
     position: relative;
     display: inline-block;
     border-radius: 50%;
@@ -353,7 +353,7 @@ Separator
     height: 2px;
     width: 30px;
     margin:20px 0px;
-    background: #f38181;
+    background: #d50000;
 }
 
 
@@ -388,7 +388,7 @@ Button
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #e74c3c;
+    background-color: #010000;
     border-color: #e74c3c;
 }
 .btn {
@@ -420,7 +420,7 @@ Button
     padding: 1.125rem 3rem;
 }
 .btn-default:hover{
-    background: #e74c3c;
+    background: #ffffff;
     border:1px solid #e74c3c;
 }
 .btn-lg{
@@ -570,15 +570,15 @@ input::-ms-input-placeholder {
     margin: 15px auto;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-    color:#e74c3c;
+    color:#0dc300;
     background: transparent;
 }
 .main_menu_bg .navbar {}
 
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-    color: #e74c3c;
+    color: #0dc300;
     padding-bottom: 22px;
-    border-bottom: 1px solid #e74c3c;
+    border-bottom: 1px solid #0dc300;
     background: transparent;
 
 }
@@ -717,7 +717,7 @@ input::-ms-input-placeholder {
 .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
     color: #fff;
     outline: none;
-    background: #e74c3c;
+    background: #000000;
 }
 .slick-arrow{
     background: #ddd;
